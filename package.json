@@ -1,0 +1,16 @@
+{
+  "name": "node-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example": "npm start -- --f duplicateNumber --d ./data.json"
+  },
+  "keywords": [],
+  "author": "Emirhan ÖZKAN",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
